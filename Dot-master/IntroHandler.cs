@@ -25,4 +25,5 @@ public class IntroHandler : MonoBehaviour
         yield return new WaitForSeconds(4);
         SceneManager.LoadScene("GameScene");
     }
+    // krish was here
 }
